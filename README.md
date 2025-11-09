@@ -1,8 +1,7 @@
 # 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there! I'm Mohamed Youssef 👋</h1>
 
-Welcome to my page! I'm **Mohamed Youssef**, a passionate programmer and full-stack web developer.
-I focus on building complete software solutions using modern technologies, and I also enjoy **3D modeling and video editing**.
+Welcome to my page! I'm **Mohamed Youssef**, a dedicated **Full-Stack Developer** and creative professional. I build **secure** and robust software solutions using modern technologies (React, Python, Laravel). My passion for **3D Modeling, Blender, and Video Editing** allows me to bring an extra layer of **creative and legendary** design quality to both my code projects and visual works.
 
 ---
 
@@ -32,7 +31,7 @@ I am proficient and continuously work with the following technologies:
 | [**Your First Project Name Here**](your_first_project_link) | <img alt="Stars" src="https://img.shields.io/github/stars/Your_Username/Your_First_Project?style=flat-square&labelColor=343b41"/> | <img alt="Forks" src="https://img.shields.io/github/forks/Your_Username/Your_First_Project?style=flat-square&labelColor=343b41"/> | <img alt="Issues" src="https://img.shields.io/github/issues/Your_Username/Your_First_Project?style=flat-square&labelColor=343b41"/> | <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Your_Username/Your_First_Project?style=flat-square&labelColor=343b41"/> |
 | [**Your Second Project Name Here**](your_second_project_link) | <img alt="Stars" src="https://img.shields.io/github/stars/Your_Username/Your_Second_Project?style=flat-square&labelColor=343b41"/> | <img alt="Forks" src="https://img.shields.io/github/forks/Your_Username/Your_Second_Project?style=flat-square&labelColor=343b41"/> | <img alt="Issues" src="https://img.shields.io/github/issues/Your_Username/Your_Second_Project?style=flat-square&labelColor=343b41"/> | <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Your_Username/Your_Second_Project?style=flat-square&labelColor=343b41"/> |
 
-> **Note:** Remember to replace the placeholder links and usernames with your actual data.
+> **Note:** Remember to replace all placeholder text (like `Your_Username`, `Your_First_Project_Name`, etc.) with your actual information and links.
 
 ---
 
