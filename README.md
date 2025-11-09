@@ -46,9 +46,3 @@ I enjoy connecting and discussing technical ideas! You can find me on the follow
 <a href="Your_Blog_Link" target="_blank"><img alt="Medium/Personal Blog" src="https://img.shields.io/badge/Blogger-%23FF5722.svg?&style=for-the-badge&logo=blogger&logoColor=white" /></a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Your_Username_Here&show_icons=true&theme=onedark&count_private=true" alt="Mohamed Youssef's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Your_Username_Here&theme=onedark" alt="Mohamed Youssef's GitHub Streak" />
-</p>
