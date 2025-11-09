@@ -9,7 +9,7 @@ Welcome to my page! I'm **Mohamed Youssef**, a dedicated **Full-Stack Developer*
 
 I am proficient and continuously work with the following technologies:
 
-<p align="center">
+<p align="left">
     <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
     <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
     <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -17,7 +17,6 @@ I am proficient and continuously work with the following technologies:
     <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
     <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
     <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-    <img alt="3D Modeling" src="https://img.shields.io/badge/-3D%20Modeling-FF6F00?style=flat-square&logo=blender&logoColor=white" /> 
     <img alt="Blender" src="https://img.shields.io/badge/-Blender-FF7800?style=flat-square&logo=blender&logoColor=white" /> 
     <img alt="Video Editing" src="https://img.shields.io/badge/-Video%20Editing-6E00FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white" /> 
 </p>
